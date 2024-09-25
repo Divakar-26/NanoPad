@@ -10,7 +10,10 @@ Link of the article - https://viewsourcecode.org/snaptoken/kilo/
 - [CREDITS](#credits)
 
 ## Images
+### Main Editor
+![MAIN EDITOR](https://github.com/Divakar-26/NanoPad/blob/main/Screenshot%20from%202024-09-25%2016-19-21.png)
 
+###
 
 ## Installation
 
