@@ -1,11 +1,21 @@
 # NanoPad
 NanoPad is a terminal-based text editor inspired by nano. Written in C with under 1300 lines of code, it features syntax highlighting and search functionality, making it a lightweight yet powerful tool for terminal users. Built using the guide from KILO - Build Your Own Text Editor by Antirez, with full credit for inspiration.
 
+Link of the article - https://viewsourcecode.org/snaptoken/kilo/
+
+### Table Of Contents
+- [Installation](#installation)
+- [USAGE](#usase)
+- [IMAGES/VIDEOS](#IMAGES)
+- [CREDITS](#credits)
+
+## Images
+
 
 ## Installation
 
 ### Prerequisites
-- Ensure you have GCC (GNU c cmpiler)
+- Ensure you have GCC (GNU c compiler)
 - Make sure you have make installed(optional)
 - Ensure you have git installed
 
@@ -60,3 +70,27 @@ NanoPad is a terminal-based text editor inspired by nano. Written in C with unde
 5. RUN
     ```bash
         ./nanopad
+    
+
+## USASE
+- Opening a file(use ./nanopad if nanopad is not working)
+    ```bash
+        nanopad FILE_NAME_WITH_EXTENSION
+
+- Search
+    1. CTRL+F to search
+    2. Use Arrow keys to go to next result or previous
+    3. Use ESC to exit search
+
+- Saving a File
+    CTRL+S to save
+
+- Quiting NanoPad
+    1. CTRL+Q to quit
+    2. Press CTRL+Q 3 times if your file is not saved!
+
+
+## CREDITS
+
+- [DIVAKAR](https://github.com/Divakar-26)
+- [ANTIREZ'S KILO](https://viewsourcecode.org/snaptoken/kilo/) 
