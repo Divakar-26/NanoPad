@@ -10,10 +10,10 @@ Link of the article - https://viewsourcecode.org/snaptoken/kilo/
 - [CREDITS](#credits)
 
 ## Images
-### Main Editor
+### Syntax Highlighting
 ![MAIN EDITOR](https://github.com/Divakar-26/NanoPad/blob/main/IMAGES/MAIN.png)
 
-### Syntax Highlighting
+### Main Editor
 ![SYNTAX](https://github.com/Divakar-26/NanoPad/blob/main/IMAGES/SYNTAX_HIGH.png)
 
 
