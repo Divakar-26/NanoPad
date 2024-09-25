@@ -11,9 +11,11 @@ Link of the article - https://viewsourcecode.org/snaptoken/kilo/
 
 ## Images
 ### Main Editor
-![MAIN EDITOR](https://github.com/Divakar-26/NanoPad/blob/main/Screenshot%20from%202024-09-25%2016-19-21.png)
+![MAIN EDITOR](https://github.com/Divakar-26/NanoPad/blob/main/IMAGES/MAIN.png)
 
-###
+### Syntax Highlighting
+![SYNTAX](https://github.com/Divakar-26/NanoPad/blob/main/IMAGES/SYNTAX_HIGH.png)
+
 
 ## Installation
 
